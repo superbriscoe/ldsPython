@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "superbriscoe-lds",
+  "private_key_id": "ff9f16a6ed75ae15127d4c7aaa0477540210ac76",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzKKVyXKBt4g0f\nA9clDTM061TYc8Gu5Q+Ieqxkh/Vg0WZX3t3OKDiyW7ND+GYBwAfoS3Z1JzMg5Uzp\nV/F+FOwdzJBEI06fRSl7VGemy4o8DI3TQ+yHhWAur8kmg7q5X3e8Bg3Ds3xKAoMn\nm0jC3oCeUFI7fqYzgGAL50Q1KtdPwQI6Y4JqjYfkeZnI6rTiUgMDJQmq7+1C469F\nUYgfkSspv6ldFr/akrPWxGmupdw5N0ADSpe/PB19T1rgfJf+76g5ukLiWDyUUJ22\nGof/7ZD/bzWdFaLavl6O4Oqvy/4O8Dazzyv+G5iVQWIuiw6jU517PJfRBnFW0m9+\nBJTt26fRAgMBAAECggEAQsdnw9Tax5p2oZTg4KKm75a4LWYYT4R54bk4ANDcmZXz\nu9UKgAll+LVNgIxaGVTmnaNjKA/QcvaFUITDMufBiunw7DTs3Vj+OUYgzH8Zq4BS\nbOjohSslysEjDQQU2XvIOYFYKBYCweNl16F94YTmFByESkDO2muDYWx2dArf7o22\nHRoNwsxWCzl9bvc0RkXcGGvo2dWdbSEuvvMQBkjNkBuGuAWWkAoqYu/NuM7s9uH5\nb7mnODGjNTMx+n46XJy+xjsy+CTzHo3t3ODbfHeafllaVt24852Y81CjzDnJ95oh\n0Wloi2IMh4T0bms3bPsRk+bmhOXBP8Bvy39uFR5VMQKBgQDulkvBKIaoKOpgL+rh\nKXDLduPfoFDLZ+SuIZdovQqTP+noZlaE9oP011vLUTH/qHKgrdqjI0aLgJbmwpgr\nbonkbZbEYwJNqxmav6QTw4yfQTqlHN08ds/aBiAK2e4O3KtrvZJaVm8a5K+VzfNL\ncZFTLgbBad6O9q9SJNGfRXD7rwKBgQDAPAGB/ji/tgfx8//ATFQtIMYeSS5V7qD7\nL4d+vJnrctts1kKnvNsIzkGrOlFNOaEdEsDpkKyNroQlqx2XwL1XHKUC9/rPDsNv\nq+brUGzxrjxarKdnVyldv9xBv9e/0C1NoOX75rFlfGgW38dydMLvI2l02/tCha3U\naO1GAtT0fwKBgGPTdNzb9QOVIwOd6PvO2Af5tbySmluRG8iT+4LyXeNggaEgeKDn\neCzQkvLOBUqAE34RYAKUNucVpY3l6794X6+4/rUq7ALNTUhHWQJ/9m2H4F7HZfXv\njGYf2/ZOWuHTCNJqnjq4IYKyHplic6KkYPbZsi/o+Rr+Mjr/dsnaRzy3AoGBAKsS\n+7iG2FPsGCf/n+OvSd4bY5TCRaUdx0+i3a8xAr2hKpsyFoGWNUsh2xkZvg6+sZ3g\n+aMiKB2yaFHpdV1+nkGu8T6yFxc7qTtxPQC/QyTVjUqYiiYSUHLo8ofkxYkjJ54F\nCYbip46MZ0mr/p/iPzR4TDo+Jt3tf2QfuMDsdj3bAoGAV4hIfoGiZblXTNWEch1w\n4XsQIlcvoxFli2bvW/0FQqmAsfE5uHjtehyog7DH7z+iKeuGGssDfoKPOX+Q95W2\nvWoNIglZyrz34yOVpWd8FZN7vq6KWkLQA+kAYSm06kHgyV9bn6Rrl/EXDuOfcwuO\nuZCEJWUJnFGUUV5iG3Hg1j4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "superbriscoe-lds@appspot.gserviceaccount.com",
+  "client_id": "112505437104022735304",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/superbriscoe-lds%40appspot.gserviceaccount.com"
+}
